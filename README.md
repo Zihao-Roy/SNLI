@@ -1,1 +1,1 @@
-# SNLI
+# CNN/RNN on SNLI 
